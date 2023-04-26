@@ -346,8 +346,8 @@ h1,pre{
 .container__cards{
     display: flex;
     height: 50vh;
-    width: 50%;
-    margin: auto;
+    width: 85%;
+    margin: 50px auto;
     gap: 10px;
 }
 
